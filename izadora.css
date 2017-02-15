@@ -1,0 +1,82 @@
+.lado
+{
+	margin-left:50%;
+	margin-bottom:-37.5%;
+	border:solid 2px black;
+	text-align: center;
+	width: 619px;
+	height: 500px;
+	opacity:0.7;
+	background-color:black;
+
+}
+body{
+	background-image: url(imagem/fundo.png);
+	background-repeat: no-repeat;
+    background-attachment:fixed;   	  
+    background-size: 206%;
+    background-position:top;
+}
+.meio
+{
+	margin-left:60%;
+	margin-top:12%;
+	margin-bottom:-20%;
+	text-align: center;
+	width: 400px;
+	height: 300px;
+	position:absolute;
+}
+
+h2
+{
+	color: #cfcfcf;
+}
+.logo
+{
+	margin: auto;
+	text-align: center;
+	color:#008B8B;
+	font-size: 150px;
+	font-family: Purisa;
+}
+p
+{
+	text-align: left;
+	color: green;
+	font-size: 20px;
+}
+.quadrado{
+	border:solid 2px black;
+        width:600px;
+	height: 500px;
+	opacity:0.7;
+	background-color:black;
+    margin-top:-40.4%;
+
+}
+label
+{
+	color: #cfcfcf;
+}
+td
+{
+	color: #cfcfcf;
+}
+.meio2
+{
+	margin-left:5%;
+	margin-top:-37%;
+	width: 400px;
+	height: 300px;
+	position:absolute;
+}
+.cabecalho
+{
+	width: 1240px;
+	height: 225px;
+	border: solid 3px #CFCFCF;
+}
+
+
+
